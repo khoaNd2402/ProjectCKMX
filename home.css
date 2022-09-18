@@ -1,0 +1,28 @@
+.div{
+  display: flex;
+
+}
+.home{
+  padding: 14px 32px;
+}
+.about{
+  padding: 14px 32px;
+}
+.contact{
+  padding: 14px 32px;
+}
+.menu{
+  padding: 14px 32px;
+}
+.sign-in{
+  padding: 14px 32px;
+}
+.your-cart{
+  padding: 14px 32px;
+}
+.order-food{
+  font-weight: 700;
+}
+.quote{
+  font-weight: normal;
+}
